@@ -1,0 +1,12 @@
+﻿  glad.c
+  GLInstance.cpp
+  imageLoader.cpp
+  main.cpp
+C:\Users\pro gamer\source\repos\graphDisplayer\openglPrac\main.cpp(149,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pro gamer\source\repos\graphDisplayer\openglPrac\main.cpp(150,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pro gamer\source\repos\graphDisplayer\openglPrac\main.cpp(199,144): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\pro gamer\source\repos\graphDisplayer\openglPrac\main.cpp(199,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\pro gamer\source\repos\graphDisplayer\openglPrac\main.cpp(199,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  openglPrac.vcxproj -> C:\Users\pro gamer\source\repos\graphDisplayer\x64\Debug\openglPrac.exe
